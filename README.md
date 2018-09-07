@@ -5,7 +5,7 @@ Just a collection of links useful to take OSCP.
 ### Linux Privilege Escalation
 
 - [g0tm1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
-- [rebootuser](Rebootuser | Local Linux Enumeration & Privilege Escalation Cheatsheet)
+- [rebootuser](https://www.rebootuser.com/?p=1623)
 
 ### Methodology/Process
 
@@ -18,7 +18,7 @@ Just a collection of links useful to take OSCP.
 
 ### Others
 
--[So you failed your OSCP](https://tulpa-security.com/2016/09/12/so-you-failed-your-oscp/)
+- [So you failed your OSCP](https://tulpa-security.com/2016/09/12/so-you-failed-your-oscp/)
 
 ### Practice, practice, practice
 
