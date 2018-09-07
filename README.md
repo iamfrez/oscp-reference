@@ -2,6 +2,11 @@
 
 Just a collection of links useful to take OSCP.
 
+### Buffer Overflows
+
+- [dostackbufferoverflowgood](https://github.com/justinsteven/dostackbufferoverflowgood/blob/master/dostackbufferoverflowgood_tutorial.md)
+
+
 ### Linux Privilege Escalation
 
 - [g0tm1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
@@ -11,6 +16,8 @@ Just a collection of links useful to take OSCP.
 
 - [Pentest Checklist](http://www.mateustymbu.xpg.com.br/Bibliography/Pentest_Checklist.pdf)
 - [0day's Pentest Methodology](http://www.0daysecurity.com/pentest.html)
+- [OSCP](https://jordanpotti.com/oscp/)
+- [Luke's Ultimate OSCP Guide: Part 3 -- Practical hacking tips and tricks](https://medium.com/@lodestarluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97)
 
 ### Official Guides/FAQs
 
@@ -29,6 +36,7 @@ Just a collection of links useful to take OSCP.
 
 - [Prep Guide for Offsec's PWK](https://tulpa-security.com/2016/09/19/prep-guide-for-offsecs-pwk/)
 - [How to Prepare for PWK/OSCP, a Noob-friendly Guide](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
+- [OSCP Preparation - Stalking my Penetration testing Passion](https://barasec.wordpress.com/2017/11/26/oscp-preparation-stalking-my-penetration-testing-passion/)
 
 
 ### Reviews
@@ -39,6 +47,9 @@ Just a collection of links useful to take OSCP.
 - [Offensive Security's PWB and OSCP -- My Experience](https://www.securitysift.com/offsec-pwb-oscp/)
 - [OSCP - Jollyfrog's Tale](http://www.techexams.net/forums/security-certifications/110760-oscp-jollyfrogs-tale.html)
 - [Offensive Security's PWK & OSCP Review](https://jhalon.github.io/OSCP-Review/)
+- [OSCP - Penetration Testing With Kali - Overview](https://jordanpotti.com/2016/11/28/oscp-penetration-testing-with-kali-course-overview/)
+- [Road to OSCP](https://www.reddit.com/r/hacking/comments/7nkmfc/road_to_oscp/)
+
 
 
 
