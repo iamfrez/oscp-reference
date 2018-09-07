@@ -11,6 +11,7 @@ Just a collection of links useful to take OSCP.
 
 - [g0tm1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [rebootuser](https://www.rebootuser.com/?p=1623)
+- [Reach the root! How to gain privileges in Linux?](https://hackmag.com/security/reach-the-root/)
 
 ### Methodology/Process
 
@@ -49,7 +50,6 @@ Just a collection of links useful to take OSCP.
 - [Offensive Security's PWK & OSCP Review](https://jhalon.github.io/OSCP-Review/)
 - [OSCP - Penetration Testing With Kali - Overview](https://jordanpotti.com/2016/11/28/oscp-penetration-testing-with-kali-course-overview/)
 - [Road to OSCP](https://www.reddit.com/r/hacking/comments/7nkmfc/road_to_oscp/)
-
-
-
+- [My OSCP Journey](https://infosecuritygeek.com/my-oscp-journey/)
+- [My OSCP Experience](https://coffeegist.com/security/my-oscp-experience/)
 
