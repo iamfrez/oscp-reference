@@ -21,9 +21,10 @@ Just a collection of links useful to take OSCP.
 - [OSCP](https://jordanpotti.com/oscp/)
 - [Luke's Ultimate OSCP Guide: Part 3 -- Practical hacking tips and tricks](https://medium.com/@lodestarluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97)
 
-### Official Guides/FAQs
+### Official Guides/FAQs/Forums
 
 - [OSCP Certification Exam Guide](https://support.offensive-security.com/#!oscp-exam-guide.md)
+- [Offsec Forum](https://forums.offensive-security.com). *You need to purchase the course to get access, but of course here's where you'll find the best information.*
 
 ### Others
 
