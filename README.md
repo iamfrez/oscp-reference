@@ -5,6 +5,7 @@ Just a collection of links useful to take OSCP.
 ### Buffer Overflows
 
 - [dostackbufferoverflowgood](https://github.com/justinsteven/dostackbufferoverflowgood/blob/master/dostackbufferoverflowgood_tutorial.md)
+- [PWK/OSCP - Stack Buffer Overflow Practice](https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/)
 
 
 ### Linux Privilege Escalation
@@ -52,4 +53,6 @@ Just a collection of links useful to take OSCP.
 - [Road to OSCP](https://www.reddit.com/r/hacking/comments/7nkmfc/road_to_oscp/)
 - [My OSCP Journey](https://infosecuritygeek.com/my-oscp-journey/)
 - [My OSCP Experience](https://coffeegist.com/security/my-oscp-experience/)
+- [I am finally an OSCP](https://www.lewisecurity.com/i-am-finally-an-oscp/)
+- [
 
