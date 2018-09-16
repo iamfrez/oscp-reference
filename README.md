@@ -20,6 +20,7 @@ Just a collection of links useful to take OSCP.
 - [0day's Pentest Methodology](http://www.0daysecurity.com/pentest.html)
 - [OSCP](https://jordanpotti.com/oscp/)
 - [Luke's Ultimate OSCP Guide: Part 3 -- Practical hacking tips and tricks](https://medium.com/@lodestarluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97)
+- [Total OSCP Guide](https://sushant747.gitbooks.io/total-oscp-guide)
 
 ### Official Guides/FAQs/Forums
 
