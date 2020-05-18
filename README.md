@@ -56,5 +56,3 @@ Just a collection of links useful to take OSCP.
 - [My OSCP Journey](https://infosecuritygeek.com/my-oscp-journey/)
 - [My OSCP Experience](https://coffeegist.com/security/my-oscp-experience/)
 - [I am finally an OSCP](https://www.lewisecurity.com/i-am-finally-an-oscp/)
-- [
-
